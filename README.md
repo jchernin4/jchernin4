@@ -37,11 +37,11 @@ Tools I've used:
     - FabricMC - Minecraft mod development toolchain
     - Bukkit - Minecraft server plugin creation
     - Forge - Minecraft mod loader/mod creation
-    - Unity
-    - Blender
+    - Unity - Game engine
+    - Blender - 3D modelling
     - JetBrains IDEs (Rider, Intellij, CLion, WebStorm)
     - Visual Studio IDEs (VSCode, Visual Studio)
-    - Git
+    - Git/GitHub - Version control
 - Larger Concepts
     - APIs (creating my own and implementing others')
     - Networking
@@ -68,7 +68,7 @@ Tools I've used:
 - [RateMyReseller](https://github.com/jchernin4/Reseller-Website) - Similar to RateMyProfessor, allows users to rate
   vendors on websites like Steam to report scammers and promote positive experiences.
 - GreenSolve [Public Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022)
-  / [Private Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022-Original) [Devpost Page](https://devpost.com/software/greensolve)
+  / [Private Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022-Original) / [Devpost Page](https://devpost.com/software/greensolve)
   - Submission to HackPSU 2022, allows
   users to submit their phone number to a messaging list, as well as register "green" events in their area and notify
   subscribers that are nearby.
