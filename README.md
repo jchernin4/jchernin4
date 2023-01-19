@@ -1,5 +1,53 @@
-  This repo is a directory of all of my projects that I could find and I think are worth adding, and a really short description of what each of them does + the tools used.
-  Most of these repositories are private, and I have a couple hundred more that aren't on GitHub that I haven't gone through yet.
+I started coding around 2018 with simple projects on a website called Scratch. This was a really simple drag-and-drop programming language that I used as an alternative to making powerpoints for school projects, as well as a few games. After that, I got interested in JavaScript, specifically Node.js. From there, I learned Java, which I used for a long time, and branched into a bunch of different topics. The transition to C# was very easy since I was already familiar with Java, and that also helped with learning C++.
+
+Tools I've used:
+- Languages (Most familiar to least)
+  - Java
+  - C#
+  - C++
+  - JavaScript
+  - HTML
+  - CSS
+  - Kotlin
+  - PHP
+  - Perl
+  - Solidity - Etherum smart contract language
+- Packages/Tools
+  - Javalin - Java HTTP server
+  - MongoDB - Database
+  - MySQL - Database
+  - React - Component-based website building tool for JavaScript/HTML/CSS
+  - Discord JDA - Java Discord API wrapper
+  - Nginx - HTTP and reverse proxy server
+  - Apache - HTTP server
+  - Gradle - Java build tool
+  - JavaFX/Swing JFrames - Java GUI
+  - WPF - C# GUI
+  - Selenium - Browser automation
+  - Unity
+  - Blender
+  - JetBrains IDEs (Rider, Intellij, CLion, WebStorm)
+  - Visual Studio IDEs (VSCode, Visual Studio)
+  - Git
+- Larger Concepts
+  - APIs (creating my own and implementing other's)
+  - Networking
+    - TCP/UDP protocols
+    - HTTP protocol
+    - Proxying
+    - IRC
+    - Routing over Tor network
+  - Cybersecurity
+    - Cryptography
+    - Malware/Ransomware/Botnets/RATs
+  - Cryptocurrency
+  - Databases
+  - Game programming
+  - Game hacking
+  - OCR (image-to-text processing)
+
+This repo is a directory of all of my projects that I could find and I think are worth adding, and a really short description of what each of them does + the tools used.
+Most of these repositories are private, and I have a couple hundred more that aren't on GitHub that I haven't gone through yet.
 
 ## Websites
 - [RateMyReseller](https://github.com/jchernin4/Reseller-Website) - Similar to RateMyProfessor, allows users to rate vendors on websites like Steam to report scammers and promote positive experiences.
