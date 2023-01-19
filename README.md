@@ -1,4 +1,4 @@
-I started coding around 2018 with simple projects on a website called Scratch. This was a really simple drag-and-drop programming language that I used as an alternative to making powerpoints for school projects, as well as a few games. After that, I got interested in JavaScript, specifically Node.js. From there, I learned Java, which I used for a long time, and branched into a bunch of different topics. The transition to C# was very easy since I was already familiar with Java, and that also helped with learning C++.
+My start to programming began when I was in 5th grade in November of 2014, when I created an account on a website called Scratch. This website has a really simple drag-and-drop programming language that I used as an alternative to making powerpoints for school projects, as well as a few games. Around 2017 or 2018, I got interested in JavaScript, specifically Node.js. From there, I learned Java, which I used for a long time, and branched into a bunch of different topics. The transition to C# was very easy since I was already familiar with Java, and that also helped with learning C++.
 
 Tools I've used:
 - Languages (Most familiar to least)
