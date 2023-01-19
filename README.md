@@ -12,6 +12,7 @@
 - [Last Stop](https://github.com/jchernin4/Last-Stop) - Singleplayer horror game where the player is on a train that makes stops at different stations and must solve a puzzle to progress to the next station while avoiding a monster.
 - [Project Zero](https://github.com/jchernin4/Project-Zero) - Singleplayer FPS similar to Ravenfield/COD BO2 hardpoint, but the player can control the bots on their team using a map.
 - [Outbreak](https://github.com/jchernin4/Outbreak) - Multiplayer 2D shooter similar to Enter the Gungeon but with elements from Escape from Tarkov
+- [Spelling Bee](https://github.com/jchernin4/Spelling-Bee) - Amazon Alexa Skill written in Java that asks the player to spell a word.
 - [Survival 2.0](https://github.com/jchernin4/Survival-2.0) - Singleplayer survival game similar to Muck but with more buildings and enemies.
 - [Grapple Shooter](https://github.com/jchernin4/GrappleShooter) - Simple multiplayer top-down 3D showers where the players control a ball using grapple physics and fight against other players.
 - [SpaceGame](https://github.com/jchernin4/SpaceGame) - Singleplayer space exploration game similar to Rust or Space Engineers.
@@ -93,22 +94,23 @@
 - [Tarkov Market Bot v2](https://github.com/jchernin4/Tarkov-Market-Bot-v2) - Automates buying flea market items below the vendor prices and selling them to vendors. This one uses an API to fetch prices.
 
 ## Orion Project
-Orion is a group of desktop applications that are all connected to the Orion network. Users made an account with the Account Manager and purchased subscriptions to differnet products, all of which contact the Server application which verifies that the user has access to these tools. They're all decently secure, with as much functionality server-side as possible so customers couldn't crack the programs and not have to pay to use it.
+  Orion is a group of desktop applications that are all connected to the Orion network. Users made an account with the Account Manager and purchased subscriptions to differnet products, all of which contact the Server application which verifies that the user has access to these tools. They're all decently secure, with as much functionality server-side as possible so customers couldn't crack the programs and not have to pay to use it.
 - [Orion Account Manager](https://github.com/jchernin4/Orion-Account-Manager) - Standalone application for managing your Orion account service subscriptions.
 - [Orion Server](https://github.com/jchernin4/Orion-Server) - Backend for all Orion applications using Javalin and MongoDB.
-- [Orion Discord Raid Tool](https://github.com/jchernin4/Orion-Discord-Raid-Tool) - Discord raid tool connected to the Orion network.
-- [Orion Multi Tool](https://github.com/jchernin4/Orion-Multi-Tool) - Misc tool for random things like port scanning and DNS resolving. Connected to the Orion network.
+- [Orion Discord Raid Tool](https://github.com/jchernin4/Orion-Discord-Raid-Tool) - Discord raid tool.
+- [Orion Multi Tool](https://github.com/jchernin4/Orion-Multi-Tool) - Misc tool for random things like port scanning and DNS resolving.
+
+## Visualizers/Simulators
+- [Pathfinding Visualizer v4](https://github.com/jchernin4/Pathfinding-Visualizer-V4) - Visualizes a pathfinding algorithm using Java's JFrames.
+- [Brain-CSharp](https://github.com/jchernin4/Brain-Csharp) - Generates art using dots that randomly drift around the screen and connect to each other when they get close.
+- [Mandelbrot](https://github.com/jchernin4/Mandlebrot) - Visualizes the Mandelbrot set using Java.
+- [Martingale](https://github.com/jchernin4/Martingale) - Simulates the martingale betting strategy.
 
 ## Misc
 - [BTC Gen](https://github.com/jchernin4/btc-gen) - Randomly generates Bitcoin private keys with the goal being to generate a key to an address that has coins (made for fun, this wouldn't work in practice).
-- [Pathfinding Visualizer v4](https://github.com/jchernin4/Pathfinding-Visualizer-V4) - Visualizes a pathfinding algorithm using Java's JFrames.
-- [Martingale](https://github.com/jchernin4/Martingale) - Simulates the martingale betting strategy.
-- [Spelling Bee](https://github.com/jchernin4/Spelling-Bee) - Amazon Alexa Skill that asks the player to spell a word.
+- [BTC Key Bot](https://github.com/jchernin4/BTC-Key-Bot) - JavaScript bot that automates a Steam account, allowing users to trade Bitcoin for CS:GO case keys back when they were tradable.
 - [Proxy Scraper](https://github.com/jchernin4/ProxyScraper) - Grabs proxies from different websites and tests them.
-- [Brain-CSharp](https://github.com/jchernin4/Brain-Csharp) - Generates art using dots that randomly drift around the screen and connect to each other when they get close.
 - [Guitar Keyboard Controller](https://github.com/jchernin4/Guitar-Keyboard-Controller) - Controls your keyboard using notes on a guitar, I think I used this for playing Minecraft.
 - [Remote Keyboard Controller](https://github.com/jchernin4/RemoteKeyboardController) - Allows one person to control another person's keyboard, I think I used this one to play Minecraft on a friend's computer while he shared his screen on Discord.
 - [Rust Wallpaper](https://github.com/jchernin4/Rust-Wallpaper) - Automatically updates a Windows wallpaper to sync the computer's time with the ingame time on the wallpaper image.
-- [Mandelbrot](https://github.com/jchernin4/Mandlebrot) - Visualizes the Mandelbrot set using Java.
 - [Twitch Viewbotter](https://github.com/jchernin4/Twitch-Viewbotter) - Makes Twitch accounts view a stream and type random messages in chat. Also has an automated account creator function. Written in JavaScript.
-- [BTC Key Bot](https://github.com/jchernin4/BTC-Key-Bot) - JavaScript bot that automates a Steam account, allowing users to trade Bitcoin for CS:GO case keys back when they were tradable.
