@@ -71,6 +71,9 @@ Tools I've used:
   / [Private Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022-Original) - Submission to HackPSU 2022, allows
   users to submit their phone number to a messaging list, as well as register "green" events in their area and notify
   subscribers that are nearby.
+- [HealthFirst](https://github.com/LukeS26/HealthFIRST) - Submission for my high school's FIRST robotics team. Social
+  media that promotes healthy lifestyles, awarding users with badges and lets them discuss their achievements (I wrote
+  the backend, and used Javalin and MongoDB)
 - [React Testing](https://github.com/jchernin4/react-testing) - A test website made with React.
 - [Login System](https://github.com/jchernin4/Login-System) - Boilerplate backend login system using Javalin and
   MongoDB.
