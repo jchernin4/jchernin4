@@ -68,7 +68,8 @@ Tools I've used:
 - [RateMyReseller](https://github.com/jchernin4/Reseller-Website) - Similar to RateMyProfessor, allows users to rate
   vendors on websites like Steam to report scammers and promote positive experiences.
 - GreenSolve [Public Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022)
-  / [Private Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022-Original) - Submission to HackPSU 2022, allows
+  / [Private Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022-Original) [Devpost Page](https://devpost.com/software/greensolve)
+  - Submission to HackPSU 2022, allows
   users to submit their phone number to a messaging list, as well as register "green" events in their area and notify
   subscribers that are nearby.
 - [HealthFirst](https://github.com/LukeS26/HealthFIRST) - Submission for my high school's FIRST robotics team. Social
