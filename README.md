@@ -1,10 +1,11 @@
-This repo is a directory of all of my projects that I could find and I think are worth adding, and a really short description of what each of them does + the tools used.
-Most of these repositories are private, and I have a couple hundred more that aren't on GitHub that I haven't gone through yet.
+  This repo is a directory of all of my projects that I could find and I think are worth adding, and a really short description of what each of them does + the tools used.
+  Most of these repositories are private, and I have a couple hundred more that aren't on GitHub that I haven't gone through yet.
 
 ## Websites
 - [RateMyReseller](https://github.com/jchernin4/Reseller-Website) - Similar to RateMyProfessor, allows users to rate vendors on websites like Steam to report scammers and promote positive experiences.
 - GreenSolve [Public Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022) / [Private Repo](https://github.com/jchernin4/GreenSolve-HackPSU2022-Original) - Submission to HackPSU 2022, allows users to submit their phone number to a messaging list, as well as register "green" events in their area and notify subscribers that are nearby.
 - [React Testing](https://github.com/jchernin4/react-testing) - A test website made with React.
+- [Login System](https://github.com/jchernin4/Login-System) - Boilerplate backend login system using Javalin and MongoDB.
 
 ## Games
 ### My Games (Almost all are written in C# for Unity)
@@ -80,6 +81,7 @@ Most of these repositories are private, and I have a couple hundred more that ar
 - [InfiniumRAT New](https://github.com/jchernin4/InfiniumRAT-NEW) - Multithreaded C# WPF GUI RAT.
 - [POC Ransomware](https://github.com/jchernin4/POC-Ransomware) - Java ransomware, uses Pastebin to save decryption keys.
 - [Infinium Tools](https://github.com/jchernin4/Infinium-Tools) - PERL udp flooder script.
+- [Password Manager](https://github.com/jchernin4/Password-Manager) - Java password manager using Swing JFrames.
 
 ## Automation Bots
 - [FH5 Sniper](https://github.com/jchernin4/FH5Sniper) - Buys cars on the Forza Horizon 5 auction house that were listed at a low price.
@@ -94,7 +96,6 @@ Most of these repositories are private, and I have a couple hundred more that ar
 - [BTC Gen](https://github.com/jchernin4/btc-gen) - Randomly generates Bitcoin private keys with the goal being to generate a key to an address that has coins (made for fun, this wouldn't work in practice).
 - [Pathfinding Visualizer v4](https://github.com/jchernin4/Pathfinding-Visualizer-V4) - Visualizes a pathfinding algorithm using Java's JFrames.
 - [Martingale](https://github.com/jchernin4/Martingale) - Simulates the martingale betting strategy.
-- [Login System](https://github.com/jchernin4/Login-System) - Boilerplate login system using Javalin and MongoDB.
 - [Spelling Bee](https://github.com/jchernin4/Spelling-Bee) - Amazon Alexa Skill that asks the player to spell a word.
 - [Proxy Scraper](https://github.com/jchernin4/ProxyScraper) - Grabs proxies from different websites and tests them.
 - [Orion Server](https://github.com/jchernin4/Orion-Server) - Backend for all Orion applications using Javalin and MongoDB.
@@ -105,7 +106,6 @@ Most of these repositories are private, and I have a couple hundred more that ar
 - [Guitar Keyboard Controller](https://github.com/jchernin4/Guitar-Keyboard-Controller) - Controls your keyboard using notes on a guitar, I think I used this for playing Minecraft.
 - [Remote Keyboard Controller](https://github.com/jchernin4/RemoteKeyboardController) - Allows one person to control another person's keyboard, I think I used this one to play Minecraft on a friend's computer while he shared his screen on Discord.
 - [Rust Wallpaper](https://github.com/jchernin4/Rust-Wallpaper) - Automatically updates a Windows wallpaper to sync the computer's time with the ingame time on the wallpaper image.
-- [Password Manager](https://github.com/jchernin4/Password-Manager) - Java password manager using Swing JFrames.
 - [Mandelbrot](https://github.com/jchernin4/Mandlebrot) - Visualizes the Mandelbrot set using Java.
 - [Twitch Viewbotter](https://github.com/jchernin4/Twitch-Viewbotter) - Makes Twitch accounts view a stream and type random messages in chat. Also has an automated account creator function. Written in JavaScript.
 - [BTC Key Bot](https://github.com/jchernin4/BTC-Key-Bot) - JavaScript bot that automates a Steam account, allowing users to trade Bitcoin for CS:GO case keys back when they were tradable.
