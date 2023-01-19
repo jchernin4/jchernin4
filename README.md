@@ -24,6 +24,9 @@ Tools I've used:
   - JavaFX/Swing JFrames - Java GUI
   - WPF - C# GUI
   - Selenium - Browser automation
+  - FabricMC - Minecraft mod development toolchain
+  - Bukkit - Minecraft server plugin creation
+  - Forge - Minecraft mod loader/mod creation
   - Unity
   - Blender
   - JetBrains IDEs (Rider, Intellij, CLion, WebStorm)
@@ -45,6 +48,10 @@ Tools I've used:
   - Game programming
   - Game hacking
   - OCR (image-to-text processing)
+  - Web scraping
+  - Task automation
+    - Automating user input
+  - Investment automation/analysis
 
 This repo is a directory of all of my projects that I could find and I think are worth adding, and a really short description of what each of them does + the tools used.
 Most of these repositories are private, and I have a couple hundred more that aren't on GitHub that I haven't gone through yet.
