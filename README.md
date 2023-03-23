@@ -38,7 +38,7 @@ Tools I've used:
     - Bukkit - Minecraft server plugin creation
     - Forge - Minecraft mod loader/mod creation
     - Unity - Game engine
-    - Blender - 3D modelling
+    - Blender - 3D modelling/animation
     - JetBrains IDEs (Rider, Intellij, CLion, WebStorm)
     - Visual Studio IDEs (VSCode, Visual Studio)
     - Git/GitHub - Version control
@@ -89,6 +89,7 @@ Tools I've used:
   but the player can control the bots on their team using a map.
 - [Outbreak](https://github.com/jchernin4/Outbreak) - Multiplayer 2D shooter similar to Enter the Gungeon but with
   elements from Escape from Tarkov
+- [RIT-Brickhack](https://github.com/jchernin4/RIT-Brickhack) - Multiplayer math learning game submitted for Brickhack 2023
 - [Spelling Bee](https://github.com/jchernin4/Spelling-Bee) - Amazon Alexa Skill written in Java that asks the player to
   spell a word.
 - [Survival 2.0](https://github.com/jchernin4/Survival-2.0) - Singleplayer survival game similar to Muck but with more
@@ -104,6 +105,7 @@ Tools I've used:
 - [Singleplayer](https://github.com/jchernin4/Singleplayer) - Framework for a first person singleplayer game.
 - [FPS](https://github.com/jchernin4/FPS) - Multiplayer FPS game using a custom multiplayer protocol made from scratch.
 - [Maze Thing](https://github.com/jchernin4/Maze-Thing) - Simple JavaScript CLI maze game
+- [Footbig](https://github.com/jchernin4/Footbig) - Bigfoot hunting game
 
 ### Scripts for Other Games
 
@@ -121,7 +123,7 @@ Tools I've used:
 - [BlueDemon](https://github.com/jchernin4/BlueDemon) - Algorithm for an old turn-based 2D game on Heroku where you
   capture different fruits of different values on a grid, competing against another algorithm.
 - [CSGO Spammer](https://github.com/jchernin4/CSGO-Spammer) - Spams the chat in CS:GO matches.
-
+- [Stats](https://github.com/jchernin4/Stats) - Rust Oxide plugin that tracks player stats like kills, deaths, etc.
 ### Game Hacks
 
 - [Nemesis](https://github.com/jchernin4/Nemesis) - Minecraft hacked client using FabricMC.
@@ -165,6 +167,8 @@ Tools I've used:
   did I make so many of these.
 - [CryptoBot](https://github.com/jchernin4/CryptoBot) - Allows users to buy and sell Bitcoin using JavaScript and
   Nomic.com's Bitcoin price API.
+- [Poll Bot](https://github.com/jchernin4/Poll-Bot) - Used for posting and counting votes
+- [Minecraft Casino Bot](https://github.com/jchernin4/Minecraft-Casino-Bot) - Lets users play games on Discord and win items in our private Minecraft server
 
 ### Tools
 
@@ -179,6 +183,8 @@ Tools I've used:
   work in practice, I made it for fun).
 - [Discord Account Creator](https://github.com/jchernin4/DiscordAccountCreator) - Automatically creates Discord accounts
   and verifies the email used.
+- [Spotify-Grabber](https://github.com/jchernin4/Spotify-Grabber) - Searches Pastebin for posted Spotify accounts
+- [File Opener](https://github.com/jchernin4/File-Opener) - Opens all the files on a computer
 
 ## Investing
 
@@ -189,11 +195,16 @@ Tools I've used:
   JavaScript.
 - [BinanceTrader Improved](https://github.com/jchernin4/BinanceTrader-Improved) - Same as original but with
   improvements.
+- [Binance Trader New](https://github.com/jchernin4/Binance-Trader-New) - Another Binance trader
+- [StockBot/Stock-Bot](https://github.com/jchernin4/StockBot-and-Stock-Bot) - Automated trading bots for TD Ameritrade
+- [BTC-Phillips](https://github.com/jchernin4/BTC-Phillips) - Syncs Phillps Hue lights to turn green, red, or orange depending on whether Bitcoin's price goes up, down, or doesn't change
+- [BitcoinProfitCalculator](https://github.com/jchernin4/BitcoinProfitCalculator) - Calculates the profit gained based on a history of Bitcoin trades, uses JavaScript
 
 ## Networking
 
 - [TCP Communication](https://github.com/jchernin4/TcpCommunication) - Boilerplate C# TCP client/server communication
   using Sockets with async callbacks.
+- [Secure CLI Chat](https://github.com/jchernin4/Secure-CLI-Chat) - Allows users to chat over TCP while encrypting all their messages
 
 ## Cybersecurity
 
@@ -204,12 +215,17 @@ Tools I've used:
   alongside the stub to be decrypted at runtime.
 - [Serum](https://github.com/jchernin4/Serum) - C# botnet using IRC over TCP sockets.
 - [Serum v2](https://github.com/jchernin4/Serum-V2) - C# UDP flood botnet using TCP sockets.
+- [SerumRAT v3-13](https://github.com/jchernin4/SerumRAT-v3-13) - Different variations of Serum
 - [InfiniumRAT](https://github.com/jchernin4/InfiniumRAT) - Multithreaded C# WPF GUI RAT.
 - [InfiniumRAT New](https://github.com/jchernin4/InfiniumRAT-NEW) - Multithreaded C# WPF GUI RAT.
 - [POC Ransomware](https://github.com/jchernin4/POC-Ransomware) - Java ransomware, uses Pastebin to save decryption
   keys.
 - [Infinium Tools](https://github.com/jchernin4/Infinium-Tools) - PERL udp flooder script.
 - [Password Manager](https://github.com/jchernin4/Password-Manager) - Java password manager using Swing JFrames.
+- [Poseidon Antivirus](https://github.com/jchernin4/Poseidon-Antivirus) - Antivirus scanner for Windows using C#
+- [Kratos](https://github.com/jchernin4/Kratos) - Another rat
+- [IRCBot](https://github.com/jchernin4/IRCBot) - IRC c&c net
+- [Hermes](https://github.com/jchernin4/Hermes) - Technically a rat but it's only used to mess with a computer
 
 ## Automation Bots
 
@@ -224,6 +240,7 @@ Tools I've used:
   vendor prices and sells them to the vendor. Uses OCR in Java to retrieve prices.
 - [Tarkov Market Bot v2](https://github.com/jchernin4/Tarkov-Market-Bot-v2) - Automates buying flea market items below
   the vendor prices and selling them to vendors. This one uses an API to fetch prices.
+- [Steam Idler](https://github.com/jchernin4/Steam-Idler) - Keeps a user logged into a Steam game (used for card drops)
 
 ## Orion Project
 
@@ -255,7 +272,9 @@ possible so customers couldn't crack the programs and not have to pay to use it.
   generate a key to an address that has coins (made for fun, this wouldn't work in practice).
 - [BTC Key Bot](https://github.com/jchernin4/BTC-Key-Bot) - JavaScript bot that automates a Steam account, allowing
   users to trade Bitcoin for CS:GO case keys back when they were tradable.
+- [Proxy Scraper OLD](https://github.com/jchernin4/Proxy-Scraper-OLD) - Older unoptimized proxy scraper
 - [Proxy Scraper](https://github.com/jchernin4/ProxyScraper) - Grabs proxies from different websites and tests them.
+- [Proxy Scraper v2](https://github.com/jchernin4/Proxy-Scraper-v2) - Updated and improved proxy scraper
 - [Guitar Keyboard Controller](https://github.com/jchernin4/Guitar-Keyboard-Controller) - Controls your keyboard using
   notes on a guitar, I think I used this for playing Minecraft.
 - [Remote Keyboard Controller](https://github.com/jchernin4/RemoteKeyboardController) - Allows one person to control
@@ -265,6 +284,7 @@ possible so customers couldn't crack the programs and not have to pay to use it.
   computer's time with the ingame time on the wallpaper image.
 - [Twitch Viewbotter](https://github.com/jchernin4/Twitch-Viewbotter) - Makes Twitch accounts view a stream and type
   random messages in chat. Also has an automated account creator function. Written in JavaScript.
+- [Bitcoin Wallet](https://github.com/jchernin4/Bitcoin-Wallet) - Bitcoin wallet for Windows
 
 ## Lost Projects
 
