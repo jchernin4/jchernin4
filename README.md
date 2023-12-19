@@ -4,7 +4,7 @@ My name is Jeremy Chernin, I'm a student at The Pennsylvania State University pu
 
 I began programming back in November of 2014, when I created an account on a website called
 Scratch in the 5th grade. Although this was a relatively simple way of coding, it sparked my interest and caused me to branch out into learning JavaScript,
-specifically Node.js. From there, I learned Java, which I used for a long time, and used to explore a bunch of different
+specifically Node.js. From there, I learned Java, which I used for a long time to explore a bunch of different
 topics. The transition to C# was very easy since I was already familiar with Java, and that also helped with learning
 C++, which I learned shortly after.
 
